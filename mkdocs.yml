@@ -1,3 +1,53 @@
-site_name: My Docs
+site_name: French Space Program
 theme:
   name: material
+  language: en
+  icon:
+    logo: material/rocket
+  features:
+    - navigation.tracking
+    - navigation.instant
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.top
+    - navigation.indexes
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    - scheme: slate
+      primary: red
+      accent: red
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+  font:
+    text: Roboto
+plugins:
+  - search
+  
+repo_url: https://github.com/kbrault/french-space-program
+repo_name: /french-space-program
+edit_uri: edit/main/docs/
+extra:
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/kbrault_
+    - icon: fontawesome/brands/github
+      link: https://github.com/kbrault/french-space-program
+
+# Page tree example
+nav:
+  - Welcome to FSP: index.md
+  - After War: after-war/index.md
+  - CNES: cnes-creation/index.md
+  - ESRO, ELDO, Europa: esro-eldo-europa/index.md
+  - ESA & Ariane: esa-ariane/index.md
+  - Ufulogy (GEIPAN): ufology/index.md
+#    - Installation: getting-started.md
+#    - Changelog:
+#      - changelog/index.md
