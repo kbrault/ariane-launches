@@ -38,4 +38,7 @@ extra:
 
 # Page tree example
 nav:
+    - Rockets:
+      - Ariane 5 : rocket/ariane5.md
+    - Launches:  
       - VA256 : launch/va256.md
