@@ -1,4 +1,7 @@
 ---
+hide:
+  - toc
+
 title: Welcome to ArianeLaunches
 ---
 
