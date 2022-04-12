@@ -7,8 +7,6 @@ theme:
   features:
     - navigation.tracking
     - navigation.instant
-    - navigation.tabs
-    - navigation.tabs.sticky
     - navigation.sections
     - navigation.top
     - navigation.indexes
@@ -38,8 +36,9 @@ extra:
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/kbrault_
     - icon: fontawesome/brands/github
-      link: https://github.com/kbrault/french-space-program
+      link: https://github.com/kbrault/ariane-launches
 
 # Page tree example
 nav:
-  - Welcome to FSP: index.md
+  - ArianeLaunches: index.md
+      - VA256 : launch/va256.md
