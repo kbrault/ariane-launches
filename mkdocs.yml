@@ -23,6 +23,7 @@ theme:
         name: Switch to light mode
   font:
     text: Roboto
+    code: Roboto Mono
 plugins:
   - privacy:
       externals: bundle
