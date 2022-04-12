@@ -1,11 +1,7 @@
 ---
-hide:
-  - navigation
-  - toc
-
-title: Welcome to FSP
+title: Welcome to ArianeLaunches
 ---
 
-# Welcome the French Space Program Documentation
+# Welcome ArianeLaunches
 
 Work in progress
