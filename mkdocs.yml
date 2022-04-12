@@ -40,5 +40,6 @@ extra:
 
 # Page tree example
 nav:
-  - ArianeLaunches: index.md
+  - ArianeLaunches: 
+      - index.md
       - VA256 : launch/va256.md
