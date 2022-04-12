@@ -24,6 +24,8 @@ theme:
   font:
     text: Roboto
 plugins:
+  - privacy:
+      externals: bundle
   - search
   
 repo_url: https://github.com/kbrault/ariane-launches
