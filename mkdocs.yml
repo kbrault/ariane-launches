@@ -1,4 +1,4 @@
-site_name: FrenchSpaceProgram
+site_name: ArianeLaunches
 theme:
   name: material
   language: en
@@ -30,8 +30,8 @@ theme:
 plugins:
   - search
   
-repo_url: https://github.com/kbrault/french-space-program
-repo_name: /french-space-program
+repo_url: https://github.com/kbrault/ariane-launches
+repo_name: /ariane-launches
 edit_uri: edit/main/docs/
 extra:
   social:
@@ -43,11 +43,3 @@ extra:
 # Page tree example
 nav:
   - Welcome to FSP: index.md
-  - After War: after-war/index.md
-  - CNES: cnes-creation/index.md
-  - ESRO, ELDO, Europa: esro-eldo-europa/index.md
-  - ESA & Ariane: esa-ariane/index.md
-  - Ufulogy (GEIPAN): ufology/index.md
-#    - Installation: getting-started.md
-#    - Changelog:
-#      - changelog/index.md
