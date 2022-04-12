@@ -25,8 +25,6 @@ theme:
     text: Roboto
     code: Roboto Mono
 plugins:
-  - privacy:
-      externals: bundle
   - search
   
 repo_url: https://github.com/kbrault/ariane-launches
